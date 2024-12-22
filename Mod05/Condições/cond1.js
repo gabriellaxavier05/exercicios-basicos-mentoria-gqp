@@ -1,4 +1,4 @@
-/* Analisando se 2 valores são iguais ou diferentes
+// Analisando se 2 valores são iguais ou diferentes
 
 let x = 2
 let y = 2
@@ -9,7 +9,6 @@ if (x == y) {
 else {
     console.log("Valores diferentes")
 }
-*/
 
 
 // Criando uma funlção com if-else para comparar números
